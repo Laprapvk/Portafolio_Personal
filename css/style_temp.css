@@ -1,0 +1,31 @@
+/*
+header{
+background: purple;
+
+}
+
+main{
+    background: lightcyan;
+
+}
+
+footer{
+    background: lightpink;
+}
+
+.container{
+    background: lightpink   ;
+}
+
+.menu{
+    background: lightsalmon;
+}
+
+header .container-text{
+    background: lightcyan;
+}
+
+header.menu{
+    background-color: red;
+}
+    */
